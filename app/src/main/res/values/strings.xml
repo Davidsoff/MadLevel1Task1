@@ -5,4 +5,6 @@
     <string name="equal">EQUALS</string>
     <string name="higher">HIGHER</string>
     <string name="last_throw">Last Throw: %1$d</string>
+    <string name="correct">You guessed correctly!</string>
+    <string name="incorrect">You guessed incorrectly.</string>
 </resources>
